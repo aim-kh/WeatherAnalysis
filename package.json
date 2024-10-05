@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://aim-kh.github.io/WeatherAnalysis",
+  "homepage": "https://aim-kh.github.io/WeatherApp",
 
   "scripts": {
     "dev": "vite",
